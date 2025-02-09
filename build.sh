@@ -1,3 +1,5 @@
+cp skin.ini src
+cp skininfo.json src
 rm -f *.osk
 git add .
 read -p "Enter Commit Message: " commit
