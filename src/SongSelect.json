@@ -3,7 +3,7 @@
   "DrawableInfo": {
     "global": [
       {
-        "Type": "osu.Game.Skinning.Components.BeatmapAttributeText, osu.Game, Version=2024.1219.2.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Skinning.Components.BeatmapAttributeText, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 20.981628,
           "y": 45.324265
@@ -27,7 +27,7 @@
         "Children": []
       },
       {
-        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1219.2.0, Culture=neutral, PublicKeyToken=null",
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 80.92822,
           "y": 415.95227
@@ -44,6 +44,27 @@
         "UsesFixedAnchor": false,
         "Settings": {
           "sprite_name": "startbtn.png"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": -87.54053,
+          "y": 14.745789
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.9940415,
+          "y": 0.9940415
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 12,
+        "Origin": 12,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "bear.png"
         },
         "Children": []
       }
