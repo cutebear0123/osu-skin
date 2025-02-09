@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "DrawableInfo": {
+    "global": [
+      {
+        "Type": "osu.Game.Skinning.Components.BeatmapAttributeText, osu.Game, Version=2024.1219.2.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 20.981628,
+          "y": 45.324265
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.7984847,
+          "y": 0.7984847
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 9,
+        "Origin": 9,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "attribute": 13,
+          "template": "{Label}: {Value}",
+          "font": 1,
+          "text_colour": "#FFFFFF"
+        },
+        "Children": []
+      },
+      {
+        "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2024.1219.2.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 80.92822,
+          "y": 415.95227
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 0.8747682,
+          "y": 0.8747682
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 36,
+        "Origin": 36,
+        "UsesFixedAnchor": false,
+        "Settings": {
+          "sprite_name": "startbtn.png"
+        },
+        "Children": []
+      }
+    ]
+  }
+}
