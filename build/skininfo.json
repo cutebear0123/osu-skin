@@ -1,5 +1,6 @@
 {
   "Name": "Mahiru",
-  "Creator": "cutebear"
+  "Creator": "cutebear",
+  "InstantiationInfo": "osu.Game.Skinning.LegacySkin, osu.Game"
 }
 
