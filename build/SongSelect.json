@@ -29,13 +29,13 @@
       {
         "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": 80.92822,
-          "y": 415.95227
+          "x": 9.4314575,
+          "y": 231.61111
         },
         "Rotation": 0.0,
         "Scale": {
-          "x": 0.8747682,
-          "y": 0.8747682
+          "x": 0.35964134,
+          "y": 0.35964134
         },
         "Width": null,
         "Height": null,
@@ -50,13 +50,13 @@
       {
         "Type": "osu.Game.Skinning.SkinnableSprite, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": -87.54053,
-          "y": 14.745789
+          "x": -122.858215,
+          "y": 17.330025
         },
         "Rotation": 0.0,
         "Scale": {
-          "x": 0.9940415,
-          "y": 0.9940415
+          "x": 0.6527835,
+          "y": 0.6527835
         },
         "Width": null,
         "Height": null,

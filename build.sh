@@ -13,3 +13,4 @@ read -p "Enter Commit Message: " commit
 git commit -m "$commit"
 git push
 zip -r "Mahiru V$(cat version.txt) ($(git rev-parse --short HEAD))".osk src
+git rev-parse --short HEAD
