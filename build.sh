@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 rm -f src/skin.ini
 rm -f src/skininfo.json
