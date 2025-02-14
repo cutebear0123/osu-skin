@@ -335,25 +335,6 @@
           "text_colour": "#FFFFFF"
         },
         "Children": []
-      },
-      {
-        "Type": "osu.Game.Skinning.LegacyRankDisplay, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
-        "Position": {
-          "x": 0.0,
-          "y": 0.0
-        },
-        "Rotation": 0.0,
-        "Scale": {
-          "x": 1.0,
-          "y": 1.0
-        },
-        "Width": null,
-        "Height": null,
-        "Anchor": 18,
-        "Origin": 17,
-        "UsesFixedAnchor": false,
-        "Settings": {},
-        "Children": []
       }
     ],
     "osu": [
