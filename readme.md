@@ -20,6 +20,6 @@ The Angel Next Door fan color Managa fan color (open issue if you find the soruc
 
 I will not mrege pr if I don't like it, go make your own fork
 
-![menu](https://github.com/cutebear0123/osu-skin/blob/main/photo/menu.png)
-![gameplay1](https://github.com/cutebear0123/osu-skin/blob/main/photo/gameplay1.png)
-![gameplay2](https://github.com/cutebear0123/osu-skin/blob/main/photo/gameplay2.png)
+![menu](https://github.com/cutebear0123/osu-skin/blob/main/photo/menu.jpg)
+![gameplay1](https://github.com/cutebear0123/osu-skin/blob/main/photo/gameplay1.jpg)
+![gameplay2](https://github.com/cutebear0123/osu-skin/blob/main/photo/gameplay2.jpg)
