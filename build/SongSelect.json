@@ -5,13 +5,13 @@
       {
         "Type": "osu.Game.Skinning.Components.BeatmapAttributeText, osu.Game, Version=2025.118.3.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": 20.981628,
-          "y": 45.324265
+          "x": 336.6125,
+          "y": 127.399994
         },
         "Rotation": 0.0,
         "Scale": {
-          "x": 0.7984847,
-          "y": 0.7984847
+          "x": 0.6941816,
+          "y": 0.6941816
         },
         "Width": null,
         "Height": null,
@@ -20,7 +20,7 @@
         "UsesFixedAnchor": false,
         "Settings": {
           "attribute": 13,
-          "template": "{Label}: {Value}",
+          "template": "          {Label}: {Value}",
           "font": 1,
           "text_colour": "#FFFFFF"
         },
